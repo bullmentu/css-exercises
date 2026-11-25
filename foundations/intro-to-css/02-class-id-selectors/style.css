@@ -1,1 +1,22 @@
-/* Add CSS Styling */
+p {
+    background-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.kolmonen {
+    font-size: 24px;
+}
+
+.class-1 {
+    color: blue;
+    font-size: 36px;
+
+}
+
+.class-2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
